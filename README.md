@@ -1,2 +1,2 @@
-# Attuari_AI_Analisi_Stima_dei_Sinistri_con_utilizzo_dei_Machine_Learning
+# Attuari_&_IA:_Analisi_e_Stima_dei_Sinistri_con_utilizzo_dei_Machine_Learning
 Repository ufficiale DLI
