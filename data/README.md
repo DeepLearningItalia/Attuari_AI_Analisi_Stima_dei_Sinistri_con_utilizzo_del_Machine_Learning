@@ -4,7 +4,7 @@ Source: http://cas.uqam.ca/
 
 Reference: E. Ohlsson and B. Johansson (2010), Non-Life Insurance Pricing with Generalized Linear Models, Springer
 
-Brief Description
+Brief Description:
 
 OwnerAge -> The owner age
 
