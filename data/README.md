@@ -1,8 +1,10 @@
-swmotorcycle -> Swedish Motorcycle Insurance dataset
+# swmotorcycle -> Swedish Motorcycle Insurance dataset
 
 Source: http://cas.uqam.ca/
 
-References: E. Ohlsson and B. Johansson (2010), Non-Life Insurance Pricing with Generalized Linear Models, Springer
+Reference: E. Ohlsson and B. Johansson (2010), Non-Life Insurance Pricing with Generalized Linear Models, Springer
+
+Brief Description
 
 OwnerAge -> The owner age
 
