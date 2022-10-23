@@ -4,5 +4,8 @@ Questa è la Repository ufficiale del cosro "Analisi e stima dei sinistri con l'
 
 Il materiale fornito contiene Google Colaboratory notebooks e due datasets: uno per le esercitazioni e uno per il progetto finale.
 
-
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/claudiods"
 
