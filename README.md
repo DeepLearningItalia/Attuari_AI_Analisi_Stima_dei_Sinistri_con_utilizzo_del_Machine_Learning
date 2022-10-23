@@ -4,6 +4,7 @@ Questa è la Repository ufficiale del cosro "Analisi e stima dei sinistri con l'
 
 Il materiale fornito contiene Google Colaboratory notebooks e due datasets: uno per le esercitazioni e uno per il progetto finale.
 
+
 Autore: Claudio G. Giancaterino
 
 Contacts: 
