@@ -1,23 +1,23 @@
 # swmotorcycle -> Swedish Motorcycle Insurance dataset
 
-Source: http://cas.uqam.ca/
+Riferimento web: http://cas.uqam.ca/
 
-Reference: E. Ohlsson and B. Johansson (2010), Non-Life Insurance Pricing with Generalized Linear Models, Springer
+Testo di riferimento: E. Ohlsson and B. Johansson (2010), Non-Life Insurance Pricing with Generalized Linear Models, Springer
 
-Variables legend:
+Legenda delle variabili:
 
-OwnerAge -> The owner age
+OwnerAge -> età del proprietario
 
-Gender -> The gender
+Gender -> sesso dell'assicurato
 
-Area -> The type of area
+Area -> Area di residenza
 
-RiskClass -> The motorcycle class, divided into seven classes
+RiskClass -> classe del motociclo divisa in sette classi di rischio
 
-VehAge -> The Vehicle age, between 0 and 99
+VehAge -> età del veicolo da 0 a 99
 
-BonusClass -> The bonusclass,taking values from 1 to 7
+BonusClass -> classe bonus divisa in sette classi di rischio
 
-Exposure -> The number of policy years
+Exposure -> esposizione al rischio
 
-ClaimNb -> The number of claims
+ClaimNb -> numero di sinistri
